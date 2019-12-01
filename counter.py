@@ -7,7 +7,7 @@ def inc(x):
   >>> inc(4)
   5
   
-  """"
+  """
   return x + 1
   
 def dec(x):
@@ -18,3 +18,4 @@ def dec(x):
   4
   
   """
+  return x - 1
