@@ -18,3 +18,4 @@ def dec(x):
   4
   
   """
+  return x - 1
